@@ -1,0 +1,171 @@
+body{
+    width:780px;
+    margin:auto;
+    padding:5px;   
+}
+/*banner*/
+.banner{
+    width:780px;
+    height:125px;
+}
+/*menu*/
+.menu{
+    background-color: #0033fe;
+    height:1px;
+    top:100%;
+    padding:1rem;
+    } 
+#main-menu{
+    display:flex;
+    list-style: none;
+    font-size: 12px; 
+    }
+#main-menu li{
+    padding-left: 10px;
+    display:inline-table;
+    color:#ffffff;
+    }
+ul{
+    margin-top: -10px;
+    margin-left: -55px;
+}
+ #tab:hover{
+    color:#FF0;
+    text-decoration: underline;
+}
+/*thân trang*/
+ .flex-container {
+    display: flex;
+    border:1px groove #000;
+ }
+ /*sidebar trái*/
+ .sidebar-left{
+     width:160px;
+     height:900px;
+     background-color:#0099ff;    
+}
+.sidebar-left > div{
+    padding-top: 30px; 
+    padding-left: 10px; 
+ }
+ .sidebar-left img{
+    margin-top: -10px;  
+ }
+#doi:hover{
+   -webkit-filter:grayscale(100%);
+    filter:grayscale(100%);
+    }
+
+/*nội dung*/
+.section{
+    width:600px;
+    height:900px;
+    background-color:#ffffff;  
+    border:1px groove #000;
+}
+.section > div{
+    width:500px;
+    height:auto;  
+    }
+
+table ,td{
+    padding-left: 5px;
+    font-size: 17px;
+    padding-top: 20px;
+    margin-top: -25px;
+    }
+#dong{
+    line-height: 15px;
+}
+
+/*sidebar phải*/
+.sidebar-right{
+    width:158px;
+    height:900px;
+    background-color:#0099ff;
+    margin-left: -33px;  
+ }
+ .sidebar-right > div{
+   padding-top: 5px;
+   padding-left: 10px; 
+ }
+ .sidebar-right img{
+   margin-top: 1px; 
+   padding-left: 10px;  
+ }
+ #zoom{
+        transition: transform .4s;
+        padding-top: 5px;
+        padding-left: 5px;
+        
+      }
+      
+      #zoom:hover {
+        -ms-transform: scale(1.2); /* IE 9 */
+        -webkit-transform: scale(1.2); /* Safari 3-8 */
+        transform: scale(1.2); 
+      }
+ /*trang con 1*/
+ .bang2{
+    padding-left: 10px;
+ }
+ .bang2 ,td{
+    padding-left: 5px;
+    padding-top: 8px;
+ }
+p{
+    font-size: 12px;
+    margin-top: -8px;
+    margin-bottom: -5px;
+    margin-left: 180px;
+    font-style: italic;
+ }
+ option{
+    font-size: 18px;
+ }
+ /*dich vu ca nhan*/
+ #color{
+    padding:10px;
+    font-size: 20px;  
+ }
+ #text, #anh{
+    padding-left: 15px;
+    padding-top: 20px;
+ }
+ .list2, #font{
+    padding-left:7px ;
+    padding-top: 10px; 
+    font-size: 13px; 
+ }
+ span{
+    color:#37a0b5; 
+ }
+ a{
+    text-decoration: none;
+ }
+ /*dich vu doanh nghiep*/
+ .DN ,table{ 
+    font-size: 18px;
+    padding:7px;
+    padding-left: 5px;
+    padding-top:20px; 
+ }
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+        
+        
+        
